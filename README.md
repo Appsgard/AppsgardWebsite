@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8641037c-f463-4721-8744-03e93f26bb90/deploy-status)](https://app.netlify.com/projects/appsgard/deploys)
 # Appsgard — Landing Page
 
 > 🏗️ Site vitrine statique de l'entreprise **Appsgard**, éditrice de la plateforme LeBanc.
